@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yikemlone
-- 👀 I’m interested in Gaming, Japanese and Calathintcs calisthenics.
+- 👀 I’m interested in Gaming, Japanese and Clisthenics.
 - 🌱 I’m currently learning Java, Python, C# and JavaScript.
 - 💞️ I’m looking to collaborate on anything for beginers/intermidate level programming
 - 📫 You can reach me at MichaelBusiness61@gmail.com
