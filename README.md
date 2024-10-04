@@ -1,4 +1,5 @@
 # Hi, I’m Michael
+![](https://komarev.com/ghpvc/?username=yikemlone&style=flat-square)
 
 I am currently a student in College right now, doing a degree in Applied Computing. Lots of nerd stuff, I love it. I found a love and hatred for networking in this course. 
 
