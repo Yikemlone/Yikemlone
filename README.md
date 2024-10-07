@@ -22,5 +22,3 @@ I’m currently learning Java, Python, C# and JavaScript.
 
 In my own projects I tend to use Python more as I really like that language, but I am 
 more than confident in C# and Java. 
-
-JavaScript is my weakest out of all of them, but I am working to fix that.
