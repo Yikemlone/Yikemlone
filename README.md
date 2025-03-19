@@ -21,10 +21,6 @@ I love learning new things and solving problems. I _really_ love learning new wa
 <br>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=yikemlone&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yikemlone&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yikemlone&show_icons=true&theme=dark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yikemlone&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </p>
