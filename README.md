@@ -1,19 +1,24 @@
-# Hi, I’m Michael
+# Hi, I’m Michael :)
 ![](https://komarev.com/ghpvc/?username=yikemlone&style=flat-square)
 
-Finished my degree in **Applied Computing**. This course had lots of practical nerd stuff, I loved it. I found a love and hatred for networking in that course. 
+**🎓 Finished my degree in _Applied Computing_**
 
-## About this Github
-This Github account contains projects that I have worked on over my programming journey. I try my hands at a few different projects in languages that I want to learn better or just enjoy using.
+This course had lots of practical nerd stuff 🤓, and I loved it. I found a love and hatred for networking in that course 🌐.​
 
-I love learning new things and solving problems.
-I *really* love learning new ways to solve problems.
+**🔍 About this GitHub**
 
-## Languages
-- Java
-- C#
-- Python
-- JavaScript/TypeScript
+This GitHub account contains projects that I have worked on over my programming journey. I try my hands at a few different projects in languages that I want to learn better or just enjoy using.​
+
+I love learning new things and solving problems. I _really_ love learning new ways to solve problems.​
+
+**💻 Languages**
+
+- Java ☕​
+- C# 
+- Python 🐍​
+- JavaScript/TypeScript 📜
+
+<br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
