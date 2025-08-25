@@ -3,7 +3,7 @@
 
 **🎓 Finished my degree in _Applied Computing_**
 
-This course had lots of practical nerd stuff 🤓, and I loved it. I found a love and hatred for networking in that course 🌐.​
+This course had lots of practical nerd stuff 🤓, and I loved it.
 
 **🔍 About this GitHub**
 
@@ -13,10 +13,10 @@ I love learning new things and solving problems. I _really_ love learning new wa
 
 **💻 Languages**
 
-- Java ☕​
+- Java 
 - C# 
-- Python 🐍​
-- JavaScript/TypeScript 📜
+- Python ​
+- JavaScript/TypeScript 
 
 <br>
 
